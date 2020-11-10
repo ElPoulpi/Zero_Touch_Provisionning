@@ -7,6 +7,8 @@ Possible sujet d'alternance
 
 ``Présentation`` [Zero Touch Porvisionning](https://youtu.be/dNGv2xVVAvs?list=PLgohd895XSUddtseFy4HxCqTqqlYfW8Ix)
 
+``Playlist`` [de A-Z](https://www.youtube.com/playlist?list=PLgohd895XSUddtseFy4HxCqTqqlYfW8Ix)
+
 ## Principe via Open-Horizon
 
 * A la conception, un bon de propriété est crée et un SDO (Service Data Object) software est installé sur l'appareil
