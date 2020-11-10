@@ -18,3 +18,5 @@ Possible sujet d'alternance
 > Pour le Zero Touch Provisioning c'est effectivement un sujet que je trouve très prometeur.
 Pour le client c'est simple et tres securisé, surtout maintenant qu'on a des Secure Element dans les devices.
 En revanche dans l'industrie, le Cloud a du mal à percer.   Mais pour un sujet d'anticipation ca serait bien.
+
+[Sujet en stand-by]
